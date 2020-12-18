@@ -36,14 +36,17 @@
          ** Assigning of classes to the tweets.
          ** Calculate the total number in each category.
   ***
-## Kmeans:
-• Using the elbow method to find the optimal number of clusters.
+• Kmeans( is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters 
+  in which each observation belongs to thecluster with the nearest mean (cluster centers or cluster centroid),
+  serving as a prototype of the cluster.):
+  
+           ** Using the elbow method to find the optimal number of clusters.
 
-• Appending the WCSS to the list (kmeans.inertia_ returns the WCSS value for an initialized cluster).
+           ** Appending the WCSS to the list (kmeans.inertia_ returns the WCSS value for an initialized cluster).
 
-• Fitting kmeans to dataset.
+           ** Fitting kmeans to dataset.
 
-• Visualising the clusters.
+           ** Visualising the clusters.
 
 
 
