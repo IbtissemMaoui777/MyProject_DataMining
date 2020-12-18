@@ -9,7 +9,7 @@
 • After getting access to Twitter data we’ll now create a file to save all the tweets in it for example (allTweets.csv).
 ***
 
-### Preprocessing tweets (NLP):
+## Preprocessing tweets (NLP):
 • Cleaning up tweets (create  a function to clean the tweets(nlp_pipeline)).
 
 • Install nltk.
@@ -21,7 +21,7 @@
 • Delete the duplicate lines using drop_duplicates().
 ***
 
-#### Classification of tweets:
+## Classification of tweets:
 • Defining the set of words ( Sport_related_words, Art_related_words, Health_related_words, DataSience_related_words).
 
 • Preprocessing the sets (Tokenizing and removing stop words from the sets, Delete duplicates).
@@ -34,7 +34,7 @@
          ** Assigning of classes to the tweets.
          ** Calculate the total number in each category.
   ***
-#### Kmeans:
+## Kmeans:
 • Using the elbow method to find the optimal number of clusters.
 
 • Appending the WCSS to the list (kmeans.inertia_ returns the WCSS value for an initialized cluster).
