@@ -1,7 +1,7 @@
 # MyProject_DataMining
 ***
 ***
-## Extraction de tweets :
+## Extraction of tweets :
 • Here is a way to extract tweets based on certain topics from Twitter API using the Tweepy library for example (Sport, Music, theater, Dance, Health, Cancer, DataSience).
 
 • For using the Twitter API you need to have a developer access Twitter account. Request for the same it might take 2–3 hours to get an approval.
